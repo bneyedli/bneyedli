@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bneyedli
-- 👀 I’m interested in software development, SRE, SWE, sustainability and healthy living
+- 👀 I’m interested in software development, SRE, SWE, AppSec, SecOps, sustainability and healthy living
 - 💞️ I’m open to collaborate
 - 📫 You can find me on [linkedin](https://www.linkedin.com/in/bneyedli)
 
